@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.head-div {
+    border-radius: 9px;
+}
+.food-get {
+    box-shadow: 0 3px 10px rgb(233, 232, 232); 
+}
+.input-group-text{
+    border: none !important;
+    background-color: white !important;
+}
+.form-control{
+    border: none !important;
+}
+.search-btn {
+    background: transparent;
+    border: none !important;
+}
+.body-div {
+    justify-content: space-between;
+}
+.show-div {
+    border: 5px solid red;
+    border-radius: 9px;
+}
+.spin-anime {
+    background-color: red;
+    
+}
